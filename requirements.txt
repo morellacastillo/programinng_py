@@ -1,0 +1,8 @@
+pylint
+pytest
+black
+matplotlib
+numpy
+pandas
+torch
+os

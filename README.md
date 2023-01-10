@@ -1,2 +1,3 @@
 # programinng_py
-hello world
+
+Morella's first step in coding :p
